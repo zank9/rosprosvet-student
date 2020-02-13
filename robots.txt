@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rosprosvet-student.ru/sitemap.xml
+Host: rosprosvet-student.ru
